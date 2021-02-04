@@ -3,24 +3,24 @@
 Requirements:
 
 1. Node installed
-2. Git installed
+2. Git installed (for clone)
 
 Clone the project
 git clone https://github.com/hamzatatheer/jobtest
 
-go to /backend
-run following commands
+Go to /backend
 
 1. Create ".env" file (if not already inside backend folder) and copy the line sent privately (in email DB = '...')
 
-2. npm install
+2. run "npm install" in cmd in current folder
 
-3. run "npm run serve"
+3. run "npm run serve"  in cmd in current folder
 
-go to /webapp/booking
+Go to /webapp/booking
 
-1. npm install
-2. run "npm start"
+1. run "npm install" in cmd in current folder
+
+2. run "npm start" in cmd in current folder
 
 React on localhost:3000
 Node on localhost:3001
