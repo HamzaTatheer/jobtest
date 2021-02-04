@@ -1,5 +1,8 @@
 # jobtest
 
+![Alt text](/backend/screenshot.png?raw=true "ScreenShot")
+
+
 Requirements:
 
 1. Node installed
